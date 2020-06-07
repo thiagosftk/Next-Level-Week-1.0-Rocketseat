@@ -7,8 +7,8 @@ O Ecoleta é um projeto feito para conectar companias e clientes, de coleta de i
 
 ## Tecnologias utilizadas
 
-- [React][reactjs]
-- [React Native][rn]
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [Expo][expo]
+- React
+- React Native
+- Node.js
+- TypeScript
+- Expo
